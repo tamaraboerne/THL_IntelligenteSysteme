@@ -1,0 +1,16 @@
+bigGraph_results:
+
+Durchschnittliche Kosten aller Testfälle: 442.4
+Durchschnittliche maximale Größe des offenen Sets: 862.47
+Durchschnittliche Anzahl expandierter Knoten: 4969587.15
+Zeit: 23,94 Sekunden
+
+
+
+bigGraph_results nach verbesserung der Heuristik:
+
+Durchschnittliche Kosten aller Testfälle: 451.75
+Durchschnittliche maximale Größe des offenen Sets: 146.54
+Durchschnittliche Anzahl expandierter Knoten: 93786.7
+Zeit: 0,25 Sekunden
+Durchschnittliche Abweichung der Pfade: 1,87%

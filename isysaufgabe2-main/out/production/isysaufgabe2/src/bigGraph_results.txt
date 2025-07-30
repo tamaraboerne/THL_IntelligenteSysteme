@@ -1,0 +1,101 @@
+Ahaus - Obertshausen: 356.0
+Altenholz - Taunusstein: 666.0
+Andernach - Nordhausen: 350.0
+Aschersleben - Achim: 336.0
+Bad Blankenburg - Haldensleben: 265.0
+Bad Essen - Zeven: 176.0
+Bad Neustadt - Löhne: 376.0
+Bad Segeberg - Hildburghausen: 620.0
+Bad Soden am Taunus - Heide: 659.0
+Barsbüttel - Korbach: 403.0
+Barßel - Bad Oeynhausen: 177.0
+Bebra - Großbeeren: 394.0
+Berlin - Aachen: 675.0
+Bohmte - Kappeln: 374.0
+Bordesholm - Wangen im Allgäu: 1016.0
+Brackenheim - Kaarst: 388.0
+Braunfels - Geesthacht: 515.0
+Braunfels - Weinböhla: 501.0
+Bredstedt - Sarstedt: 428.0
+Clausthal-Zellerfeld - Henstedt-Ulzburg: 330.0
+Coburg - Dippoldiswalde: 274.0
+Coswig - Kleve: 550.0
+Dautphe - Herten: 244.0
+Dinslaken - Calau: 662.0
+Einbeck - Rehlingen-Siersburg: 516.0
+Erkrath - Weener: 284.0
+Eutin - Uelzen: 181.0
+Filderstadt - Senftenberg: 665.0
+Flörsheim - Emstek: 425.0
+Frankfurt (Oder) - Hohenwestedt: 508.0
+Freudenstadt - Falkenberg: 674.0
+Genthin - Zweibrücken: 646.0
+Gettorf - Sankt Augustin: 572.0
+Ginsheim-Gustavsburg - Sankt Ingbert: 184.0
+Glückstadt - Greven: 333.0
+Gommern - Krefeld: 460.0
+Großbeeren - Doberlug-Kirchhain: 199.0
+Gröditz - Burgdorf: 346.0
+Grünheide - Großburgwedel: 350.0
+Grünstadt - Brunsbüttel: 716.0
+Hagen im Bremischen - Saalfeld: 484.0
+Haiger - Coswig: 461.0
+Handewitt - Gelnhausen: 714.0
+Heilbad Heiligenstadt - Großrosseln: 492.0
+Heiligenhafen - Borna: 536.0
+Hemer - Moers: 98.0
+Hohenlockstedt - Osterwieck: 437.0
+Horb am Neckar - Geislingen an der Steige: 112.0
+Hünfeld - Elmshorn: 475.0
+Idstein - Nürnberg: 403.0
+Ingolstadt - Hatten: 819.0
+Ismaning - Potsdam: 711.0
+Kirchheim unter Teck - Speyer: 138.0
+Kurort Steinbach-Hallenberg - Hockenheim: 277.0
+Kyritz - Werlte: 493.0
+Königsee - Bad Vilbel: 242.0
+Königsee - Wendeburg: 292.0
+Langen - Glinde: 191.0
+Lehrte - Zehdenick: 340.0
+Leipzig - Wiefelstede: 487.0
+Lengede - Schwalbach: 577.0
+Leutkirch im Allgäu - Schwandorf: 312.0
+Lohfelden - Beverstedt: 344.0
+Memmingen - Salzwedel: 800.0
+Merzig - Löhne: 480.0
+Mölln - Wiefelstede: 220.0
+Mülsen - Hohenwestedt: 622.0
+Neuenhaus - Germersheim: 496.0
+Neunkirchen - Achern: 231.0
+Nordenham - Oldenburg in Holstein: 265.0
+Oestrich-Winkel - Vechta: 419.0
+Oldenburg in Holstein - Waghäusel: 794.0
+Reinfeld - Wallenhorst: 304.0
+Rhaude - Rehfelde: 577.0
+Rheinbach - Ensdorf: 245.0
+Riesa - Kaufbeuren: 596.0
+Roth - Ismaning: 233.0
+Saarwellingen - Idar-Oberstein: 69.0
+Schloß Holte-Stukenbrock - Eisfeld: 355.0
+Schorndorf - Selm: 483.0
+Schönkirchen - Gommern: 428.0
+Senden - Barmstedt: 888.0
+Stadtroda - Teutschenthal: 117.0
+Steinfeld - Paderborn: 142.0
+Süderbrarup - Diez: 708.0
+Taufkirchen - Nördlingen: 177.0
+Templin - Grünstadt: 744.0
+Teutschenthal - Bad Salzungen: 212.0
+Trebbin - Osnabrück: 446.0
+Trebur - Zweibrücken: 170.0
+Treffurt - Ebersbach an der Fils: 422.0
+Weingarten - Petersberg: 471.0
+Wiehl - Beeskow: 676.0
+Wiesenburg - Wertheim: 494.0
+Wiesloch - Freudenstadt: 160.0
+Wismar - Wangen im Allgäu: 1118.0
+Wittingen - Balingen: 688.0
+Wittlich - Großenhain: 671.0
+Wriezen - Dortmund: 586.0
+Zirndorf - Wittingen: 504.0
+
